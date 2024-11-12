@@ -1,4 +1,4 @@
-# Docker-OSX · [Follow @sickcodes on Twitter](https://twitter.com/sickcodes)
+# Docker-OSX · [Follow @sickcodes on 1Twitter](https://twitter.com/sickcodes)
 
 ![Running Mac OS X in a Docker container](/running-mac-inside-docker-qemu.png?raw=true "OSX KVM DOCKER")
 
