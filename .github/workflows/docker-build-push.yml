@@ -26,4 +26,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: your-username/docker-osx:latest
+        tags: lxh761605368/docker-osx:latest
